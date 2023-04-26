@@ -9,4 +9,5 @@ A string that doesn't change when it is reversed is called a palindrome.
 
 Therefore, even after being reversed, a palindrome string will still have the same value.
 
-![image](https://user-images.githubusercontent.com/127819492/234406144-b5e83870-a240-4ab1-b787-b64f6e874ba3.png)
+![image](https://user-images.githubusercontent.com/127819492/234473083-5c1be9ae-5f20-4dde-933d-99c093aff3e5.png)
+
